@@ -56,7 +56,6 @@ function setup() {
 
 
   nave = createSprite(windowWidth/2,height/2+200,20,50);
-  nave.debug=true;
   nave.setCollider("circle",0,0,200);
 
   
